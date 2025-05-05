@@ -18,10 +18,13 @@
 
 ###
 <h2 align= "center"> Challenge Conversor de Moeda </h2>
-<p> É uma calculadora para converter as moedas de Dolar, Real, Peso Argentino , Peso Colombiano , Euro e Libra de acordo com a cotação em tempo real , sincronizado com o https://www.exchangerate-api.com/, 💰💵💶💷!</p>
-<h2 align= "center"> Print Screen das imagens do Amigo Secreto. </h2>
+<p> Esta calculadora serve para converter as moedas de Dolar, Real, Peso Argentino , Peso Colombiano , Euro e Libra de acordo com a cotação em tempo real , sincronizado com o https://www.exchangerate-api.com/, 💰💵💶💷!</p>
+<h2 align= "center"> Print Screen das imagens da calculadora no terminal do Intellij. </h2>
 
-| ![challenge](https://github.com/user-attachments/assets/5e15008a-0ecd-40ed-b55f-284d8cb84c41) | ![challenge 2](https://github.com/user-attachments/assets/92c3f7ab-bad6-4423-9bde-e6f3d601e2a5) |![challenge 3](https://github.com/user-attachments/assets/915aee49-04e6-45e6-bb5b-fcbb17610ef9) |
+| ![image](https://github.com/user-attachments/assets/d4503a62-7cee-409f-95fa-e52b32140b29)
+ | ![image](https://github.com/user-attachments/assets/7bb5cb87-dc4f-4d49-98b2-f82efa13a765)
+ |![image](https://github.com/user-attachments/assets/968db49e-ae20-4620-8ef7-0b224c3641ad)
+ |
 |-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 
 <div align="left">
